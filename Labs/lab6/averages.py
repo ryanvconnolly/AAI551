@@ -2,7 +2,7 @@
 # Date: October 12, 2024
 # Description: This program reads from the numbers file, compute the average of the integers in the file and then print the average. 
 
-num = open("C:\\Users\\ryanv\\OneDrive - stevens.edu\\AAI 551\\AAI 551 Coding\\Labs\\lab6\\numbers.txt","r")
+num = open("./numbers.txt","r")
 def main():
 
     sum = 0
