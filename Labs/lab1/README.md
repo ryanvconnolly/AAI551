@@ -1,4 +1,4 @@
-# Lab 1
+# Lab 1: Introduction
 
 ## Goals for this Lab:
 1. Download and install Python,
