@@ -1,14 +1,14 @@
 # Lab 7: Classes and Objects
 
 ## Goals for this lab:
-• Define a class
-• Instantiate objects from programmer defined classes
-• Setup appropriate getter and setter functions
-• Define a class constructor
-• Define class functions
-• Create Lists of objects
-• Create UML diagrams of classes
-• Write, compile, and execute Python programs using the given instructions
+- Define a class
+- Instantiate objects from programmer defined classes
+- Setup appropriate getter and setter functions
+- Define a class constructor
+- Define class functions
+- Create Lists of objects
+- Create UML diagrams of classes
+- Write, compile, and execute Python programs using the given instructions
 
 ### orderSystem.py
 This module imports the Product module and creates instances of the Product class to calculate the total price and outputs product information.
