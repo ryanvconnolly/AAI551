@@ -1,4 +1,4 @@
-# Lab 2
+# Lab 2: Python Basics
 
 ## Goals for this lab: 
 1. Write a simple program that takes in user input and outputs formatted text to the screen
